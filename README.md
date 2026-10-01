@@ -1,4 +1,4 @@
-# CC 6.2 - Creating Search Engine Code Challenge
+# CC 7.2 - Creating Search Engine Code Challenge
 
 [Final DSA Code Challenge](https://www.coursera.org/learn/developer-data-structures-and-algorithms/programming/C57Yp/course-project-creating-a-search-engine)
 
